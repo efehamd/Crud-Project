@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "EZbubn68YQcjra5vFWqNw95as7gbWimREl7jf6cloitvmgm2JWSgSaJANAoRk3ijdSEYc0U01RTEiDdK4CCAag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\efe.hamdioglu\\Desktop\\PresentationLayerSON\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\efe.hamdioglu\\.nuget\\packages\\microsoft.netcore.app\\2.2.8\\microsoft.netcore.app.2.2.8.nupkg.sha512",
+    "C:\\Users\\efe.hamdioglu\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.8\\microsoft.netcore.dotnetapphost.2.2.8.nupkg.sha512",
+    "C:\\Users\\efe.hamdioglu\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.8\\microsoft.netcore.dotnethostpolicy.2.2.8.nupkg.sha512",
+    "C:\\Users\\efe.hamdioglu\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.8\\microsoft.netcore.dotnethostresolver.2.2.8.nupkg.sha512",
+    "C:\\Users\\efe.hamdioglu\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.4\\microsoft.netcore.platforms.2.2.4.nupkg.sha512",
+    "C:\\Users\\efe.hamdioglu\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\efe.hamdioglu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

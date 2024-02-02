@@ -1,0 +1,2 @@
+C:\Users\efe.hamdioglu\source\repos\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\efe.hamdioglu\source\repos\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache

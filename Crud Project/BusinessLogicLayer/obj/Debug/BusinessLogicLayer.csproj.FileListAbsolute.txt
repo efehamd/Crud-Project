@@ -1,0 +1,6 @@
+C:\Users\efe.hamdioglu\source\repos\PresentationLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\efe.hamdioglu\source\repos\PresentationLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\efe.hamdioglu\source\repos\PresentationLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\efe.hamdioglu\source\repos\PresentationLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\efe.hamdioglu\source\repos\PresentationLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\efe.hamdioglu\source\repos\PresentationLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
